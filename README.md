@@ -3,8 +3,6 @@
 
 <img width="100" alt="getpaper" src="https://github.com/MinkyuRamen/kubig19th-conference-llm/assets/97013710/fe89e8ae-a4c8-4415-913c-1c2c3e22cff1">
 
-**전체 개요**
-
 <img width="500" alt="overview" src="https://github.com/MinkyuRamen/kubig19th-conference-llm/assets/97013710/5854ddc1-4f61-4042-96b8-dbff31b0a7b5">
 
 
@@ -51,7 +49,7 @@ codeanalysis는 (1) LLM이 user query를 보고 이에 맞는 code를 생성한 
 ### AsKU
 
 ### HOW TO USE
-jupyter notebook
+AsKU.ipynb
 
 • **use case**
 
